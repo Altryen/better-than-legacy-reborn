@@ -44,4 +44,5 @@ This mod was originally created by **[UselessBullets](https://modrinth.com/user/
 ---
 
 *This is a clientside-only mod — it works fine in multiplayer without the server needing it installed.*
+
 *AI disclosure: This port was developed with the help of AI (Claude). All changes are tested and released by me.*
